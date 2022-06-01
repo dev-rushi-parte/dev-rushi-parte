@@ -11,12 +11,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushi2784&label=Profile%20views&color=0e75b6&style=flat" alt="rushi2784" /> </p>
 
-- 🔭 I’m currently working on **Sudoku**
-- 🌱 I’m currently learning **REACT JS**
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-- - 👨‍💻 All of my projects are available at [https://portfolio-1mqqjpq91-rushi2784.vercel.app/](https://portfolio-1mqqjpq91-rushi2784.vercel.app/)
-- - 📝 I regularly write articles on [https://medium.com/@rushikeshparte10](https://medium.com/@rushikeshparte10)
 - 💬 Ask me about **MERN**
+
+- 🔭 I’m currently working on **Sudoku**
+
+- 🌱 I’m currently learning **REACT JS**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+ 
+- 👨‍💻 All of my projects are available at [https://portfolio-1mqqjpq91-rushi2784.vercel.app/](https://portfolio-1mqqjpq91-rushi2784.vercel.app/)
+
+- 📝 I regularly write articles on [https://medium.com/@rushikeshparte10](https://medium.com/@rushikeshparte10)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
