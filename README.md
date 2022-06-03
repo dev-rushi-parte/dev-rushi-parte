@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
  
-- 👨‍💻 All of my projects are available at [https://rushi-portfolio.netlify.app/](https://rushi-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Click](https://rushi-portfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@rushikeshparte10](https://medium.com/@rushikeshparte10)
 
