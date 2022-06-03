@@ -21,7 +21,7 @@
  
 - 👨‍💻 All of my projects are available at [Click](https://rushi-portfolio.netlify.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@rushikeshparte10](https://medium.com/@rushikeshparte10)
+- 📝 I regularly write articles on [Click](https://medium.com/@rushikeshparte10)
 
 <br/>
 
