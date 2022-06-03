@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
  
-- 👨‍💻 All of my projects are available at [https://portfolio-1mqqjpq91-rushi2784.vercel.app/](https://portfolio-rushi2784.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-rushi2784.vercel.app/](https://portfolio-rushi2784.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@rushikeshparte10](https://medium.com/@rushikeshparte10)
 
