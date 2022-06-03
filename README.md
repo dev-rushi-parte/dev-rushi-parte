@@ -38,8 +38,8 @@
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/rushikeshparte10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/rushikeshparte10" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushi2784&show_icons=true&locale=en&layout=compact" alt="rushi2784" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushi2784&show_icons=true&locale=en&layout=compact" alt="rushi2784" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushi2784&show_icons=true&locale=en" alt="rushi2784" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushi2784&show_icons=true&locale=en" alt="rushi2784" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushi2784&" alt="rushi2784" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushi2784&" alt="rushi2784" /></p>
