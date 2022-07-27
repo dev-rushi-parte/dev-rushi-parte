@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 🔭 I’m currently working on **Sudoku**
+- 🔭 I’m currently working on **Booking.com**
 
 - 🌱 I’m currently learning **Backend**
 
