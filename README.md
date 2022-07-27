@@ -18,6 +18,8 @@
 
 - 🔭 I’m currently working on **Sudoku**
 
+- 🌱 I’m currently learning **Backend**
+
 - 👯 I’m looking to collaborate on **OpenSource Projects**
  
 - 👨‍💻 All of my projects are available at [Click](https://rushi-portfolio.netlify.app/)
