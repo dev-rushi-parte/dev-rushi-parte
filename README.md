@@ -62,6 +62,4 @@ href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src
 
 <a href="https://github.com/rushi2784"><img src="https://activity-graph.herokuapp.com/graph?username=rushi2784&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-​
-61
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rushi2784&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
