@@ -54,7 +54,6 @@ href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src
 </p>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushi2784&show_icons=true&locale=en&layout=compact&bg_color=000000&hide_border=true&text_color=ffffff&langs_count=8" alt="rushi2784" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushi2784&show_icons=true&locale=en&bg_color=000000&hide_border=true&text_color=ffffff&include_all_commits=true&hide=&count_private=true" alt="rushi2784" /></p>
 
