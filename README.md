@@ -16,11 +16,13 @@
 
 - 💬 Ask me about **MERN**
 
-- 🔭 I’m currently working on **Booking.com**
+- 🔭 I’m currently working on **Instagram**
 
 - 🌱 I’m currently learning **Backend**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
+
+-  You can check my resume here [resume](https://drive.google.com/drive/folders/1zAYfxlLfiN5BPMVwUOyRiDXD7yAKjZst)
  
 - 👨‍💻 All of my projects are available at [Portfolio](https://rushi-portfolio.netlify.app/)
 
