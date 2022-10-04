@@ -28,7 +28,7 @@
 
 - 📝 I regularly write articles on [Click](https://medium.com/@rushikeshparte10)
 
-- 📫 How to reach me [email](rushikesh@gmail.com)
+- 📫 How to reach me **rushikeshparte10@gmail.com**
 
 <br/>
 
