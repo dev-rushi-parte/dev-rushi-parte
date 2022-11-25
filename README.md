@@ -16,7 +16,6 @@
 
 - 💬 Ask me about **MERN**
 
-- 🔭 I’m currently working on **Instagram**
 
 - 🌱 I’m currently learning **Backend**
 
