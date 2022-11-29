@@ -1,7 +1,6 @@
 
 
-
-<!-- <img  width="850" height="500" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif" alt="Coading" />  -->
+ <img  width="850" height="500" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif" alt="Coading" />  
 <br/>
 <br/>
 
