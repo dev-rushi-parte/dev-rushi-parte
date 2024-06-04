@@ -17,7 +17,7 @@
 
 -  📝 You can check my resume here [Resume](https://drive.google.com/drive/folders/1zAYfxlLfiN5BPMVwUOyRiDXD7yAKjZst)
  
-- 👨‍💻 All of my projects are available at [Portfolio](https://rushi-parte.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://dev-rushi-parte.vercel.app/)
 
 - 📝 I regularly write articles on [Click](https://medium.com/@rushikeshparte10)
 
