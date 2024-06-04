@@ -55,12 +55,12 @@ href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src
 
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushi2784&show_icons=true&locale=en&bg_color=000000&hide_border=true&text_color=ffffff&include_all_commits=true&hide=&count_private=true" alt="rushi2784" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-rushi-parte&show_icons=true&locale=en&bg_color=000000&hide_border=true&text_color=ffffff&include_all_commits=true&hide=&count_private=true" alt="rushi2784" /></p>
 
-<p align="center"><a  href="https://github.com/rushi2784"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rushi2784&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
+<p align="center"><a  href="https://github.com/dev-rushi-parte"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-rushi-parte&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
 
- <a href="https://github.com/rushi2784"><img src="https://activity-graph.herokuapp.com/graph?username=rushi2784&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+ <a href="https://github.com/dev-rushi-parte"><img src="https://activity-graph.herokuapp.com/graph?username=dev-rushi-parte&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-[![Rushikesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rushi2784&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rushikesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dev-rushi-parte&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](https://github.com/dev-rushi-parte/github-readme-activity-graph)
 
 
