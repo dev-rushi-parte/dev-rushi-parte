@@ -19,7 +19,6 @@
  
 - 👨‍💻 All of my projects are available at [Portfolio](https://dev-rushi-parte.vercel.app/)
 
-- 📝 I regularly write articles on [Click](https://medium.com/@rushikeshparte10)
 
 - 📫 How to reach me **rushikeshparte10@gmail.com**
 
